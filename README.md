@@ -2,8 +2,6 @@
 I'm a computer engineer looking for a new oppurtunities in life. I have a passione about learning and sharing knowledge, always seeking to gain new experinces that could help me 
 improve more and more...👋
 
-<!--
-**iqbalomar/iqbalomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on my own personal projects ...
@@ -11,5 +9,3 @@ improve more and more...👋
 - 👯 I’m looking to collaborate with other content creators and learn from thier experince ...
 - 🤔 Goal: Contribute more to Open Source projects  ...
 - ⚡ Fun fact: I love learning languages, reading and sports ...
--->
-Connect with me:
